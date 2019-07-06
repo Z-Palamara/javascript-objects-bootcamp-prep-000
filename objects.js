@@ -1,5 +1,5 @@
 var playlist = {
-  slushii: 'Find'
+  Slushii: 'Find'
 };
 
 function updatePlaylist(playlist, artistName, songTitle){
